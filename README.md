@@ -32,7 +32,7 @@ To run the app locally, follow these steps:
 Make sure you have Python 3.7 or higher installed. Then, create a virtual environment and install the required packages:
 
    ```bash
-     python -m venv venv
+    python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
