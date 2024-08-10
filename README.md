@@ -1,10 +1,8 @@
 # Manhwa Chatbot
 
-![Manhwa](https://madakiba.com/files/child_tree_product_categories/2023/11/13/MANHWA.png)
-
-
 Welcome to **Manhwa Chatbot**! 🌟 This interactive web app delivers personalized manhwa recommendations and engaging AI-powered conversations.
 
+![Manhwa](https://madakiba.com/files/child_tree_product_categories/2023/11/13/MANHWA.png)
 ## 📍 Deployed App
 
 Explore the live app here: [Manhwa Chatbot](https://manhwa-chatbot.streamlit.app/)
