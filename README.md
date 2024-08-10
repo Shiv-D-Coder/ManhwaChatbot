@@ -65,7 +65,7 @@ You can also pull images directly from my Dockerhub to do that run below command
 
    ```bash
    docker login
-   docker push shiv37/manhwa_chatbot:latest
+   docker pull shiv37/manhwa_chatbot:latest
    ```
    
 Enjoy using Manhwa Chatbot! If you have any suggestions or issues, please let me know. Happy chatting! 😊
