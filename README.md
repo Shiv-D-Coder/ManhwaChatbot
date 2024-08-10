@@ -42,6 +42,9 @@ Make sure you have Python 3.7 or higher installed. Then, create a virtual enviro
    ```bash
    streamlit run app.py --server.port 8051
    ```
+
+Open your web browser and go to http://localhost:8051 to view the app.
+
 ## 🐳 Running with Docker
 
 You can also run the app using Docker. Here’s how:
@@ -65,7 +68,5 @@ You can also pull images directly from my Dockerhub to do that run below command
    docker push shiv37/manhwa_chatbot:latest
    ```
    
-Open your web browser and go to http://localhost:8051 to view the app.
-
 Enjoy using Manhwa Chatbot! If you have any suggestions or issues, please let me know. Happy chatting! 😊
    
